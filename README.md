@@ -7,3 +7,4 @@
 📫 How to reach me: lucasarm.silva@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva11/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lucas-silva23/)
