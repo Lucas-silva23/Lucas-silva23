@@ -28,10 +28,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva11/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/lucas-silva23/)
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-silva23&layout=compact&langs_count=8&theme=radical)
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-silva23&show_icons=true&theme=radical)
