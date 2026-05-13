@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lucas Silva!  
 
-🎓 I'm a Computer Science student at the Federal University of Viçosa (UFV).  
+🎓 B.Sc. in Computer Science from the Federal University of Viçosa (UFV).  
 💻 Full-Stack Software Developer | Passionate about building scalable applications and intelligent solutions.  
 
 ---
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-silva23&layout=compact&langs_count=8&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-silva23&layout=compact&langs_count=8&theme=radical)
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-silva23&show_icons=true&theme=radical)
